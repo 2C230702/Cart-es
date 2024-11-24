@@ -1,3 +1,5 @@
+///Ana Beatriz Vasconcelos 20 de nov.2024 2ºC///
+
 function criaCartao(categoria, pergunta, resposta) {
     let container = document.getElementById('container')
     let cartao = document.createElement('article')
